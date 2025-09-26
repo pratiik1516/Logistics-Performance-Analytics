@@ -3,13 +3,13 @@
 **Logistics-Performance-Analytics - CARGO SMART**
 
 
-![1](images/3.png)
+![1](https://github.com/pratiik1516/Logistics-Performance-Analytics/blob/main/3.png)
 
-![2](images/4.png)
+![2](https://github.com/pratiik1516/Logistics-Performance-Analytics/blob/main/4.png)
 
-![3](images/5.png)
+![3](https://github.com/pratiik1516/Logistics-Performance-Analytics/blob/main/5.png)
 
-![4](images/2.png)
+![4](https://github.com/pratiik1516/Logistics-Performance-Analytics/blob/main/2.png)
 
 **I) PROJECT DESCRIPTION**
 
@@ -190,7 +190,7 @@ To be able to solve the problem, it is first necessary to find out where the roo
 
 Based on the output of EDA, a Hypothesis issue tree was developed
 
-![image](images/1.png)
+![image](https://github.com/pratiik1516/Logistics-Performance-Analytics/blob/main/1.png)
 
 A supply chain will consist of three main components: suppliers - company - customers.
 
